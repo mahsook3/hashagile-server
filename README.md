@@ -6,6 +6,7 @@ This project is a web application that allows users to upload their resumes (in 
 
 - **Resume Upload**: Upload resumes in PDF format, extract key information like name, email, phone, college name, and skills.
 - **Details Display**: View all uploaded resumes along with their extracted details.
+- **AI Interation** : Utilize AI to extract details.
 - **File Download**: Download individual resume details as PDF or CSV.
 - **Tab Navigation**: Switch between "Upload Resume" and "Display Details" views using a simple tab navigation.
 
